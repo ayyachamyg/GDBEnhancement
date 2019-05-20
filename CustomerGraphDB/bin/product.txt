@@ -1,0 +1,5 @@
+#id,namee
+1,PC
+2,Mobile
+3,Tablet
+4,CTV

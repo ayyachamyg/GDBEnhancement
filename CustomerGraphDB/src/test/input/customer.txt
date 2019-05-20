@@ -1,0 +1,6 @@
+#customer_id,customer_name,age_group,region_id
+#1,Bharath,4,1
+2,Selvi,3,2
+3,Madhu,2,3
+4,Yogi,2,2
+5,Sathesh,3,2
